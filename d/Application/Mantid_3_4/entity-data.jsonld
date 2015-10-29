@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Mantid 3.4",
+  "rdfs:comment": "Mantid\r\n\r\nSee [http://www.mantidproject.org/Python_In_Mantid](http://www.mantidproject.org/Python_In_Mantid)\r\n",
+  "annal:type_id": "Application",
+  "annal:id": "Mantid_3_4",
+  "@id": "./",
+  "@type": [
+    "isis:Application",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

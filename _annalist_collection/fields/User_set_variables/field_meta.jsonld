@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "User-set variables",
+  "rdfs:comment": "User-set variables: names and values",
+  "annal:group_ref": "_group/Param_name_value",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(user-set variables)",
+  "annal:property_uri": "isis:user_set_variables",
+  "annal:field_ref_type": "",
+  "annal:field_entity_type": "isis:Job",
+  "@id": "./",
+  "annal:repeat_label_delete": "Remove user-set variable",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "Add user-set variable",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Field_group",
+  "annal:field_value_mode": "Enum_value_mode/Value_direct",
+  "annal:field_render_type": "Enum_render_type/RepeatGroupRow",
+  "annal:field_ref_field": "",
+  "annal:id": "User_set_variables",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

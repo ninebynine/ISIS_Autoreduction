@@ -1,0 +1,82 @@
+{
+  "rdfs:label": "Reduction job #20580",
+  "rdfs:comment": "Reduction job #20580",
+  "isis:finish_time": "2015-10-05T08:35",
+  "annal:type_id": "Job",
+  "annal:missing_field": "",
+  "isis:run_number": "20580",
+  "isis:start_time": "2015-10-05T08:34",
+  "isis:investigation": "Investigation/RB_1520445",
+  "isis:user_set_variables": [
+    {
+      "isis:param_value": "",
+      "isis:param_name": "Description"
+    },
+    {
+      "isis:param_value": "-10, 0.03, 5.7",
+      "isis:param_name": "energy_bins"
+    },
+    {
+      "isis:param_value": "6.0",
+      "isis:param_name": "incident_energy"
+    },
+    {
+      "isis:param_value": "no",
+      "isis:param_name": "sum_runs"
+    },
+    {
+      "isis:param_value": "None",
+      "isis:param_name": "monovan_run"
+    },
+    {
+      "isis:param_value": "19717",
+      "isis:param_name": "wb_run"
+    },
+    {
+      "isis:param_value": "20181, 20182, 20183",
+      "isis:param_name": "sample_run"
+    }
+  ],
+  "isis:instrument": "Instrument/MARI",
+  "@id": "./",
+  "isis:reduced_data": "(None)",
+  "isis:run": "Run/Run_20580",
+  "isis:instrument_data": "\\\\isis\\\\inst$\\NDXMARI\\Instrument\\Data\\cycle_15_2\\MAR20580.raw",
+  "isis_job_status": "Error: Invalid properties found. Can not run convert_to_energy",
+  "annal:id": "Job_20580",
+  "@type": [
+    "isis:Job",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "isis:advanced_variables": [
+    {
+      "isis:param_value": "yes",
+      "isis:param_name": "load_monitors_with_workspace"
+    },
+    {
+      "isis:param_value": "nxspe",
+      "isis:param_name": "save_formap"
+    },
+    {
+      "isis:param_value": "19717",
+      "isis:param_name": "det_cal_file"
+    },
+    {
+      "isis:param_value": "mari_res2013.map",
+      "isis:param_name": "monovan_mapfile"
+    },
+    {
+      "isis:param_value": "mari_mask2015.msk",
+      "isis:param_name": "hard_mask_file"
+    },
+    {
+      "isis:param_value": "None",
+      "isis:param_name": "motor_offset"
+    },
+    {
+      "isis:param_value": "mari_res2013.map",
+      "isis:param_name": "map_file"
+    }
+  ]
+}

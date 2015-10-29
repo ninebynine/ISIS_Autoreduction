@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Auto-reduction job",
+  "rdfs:comment": "A (data auto-reduction) job, or run, over ISIS data.\r\n\r\nA job is associated with a run number, which is allocated sequentially by the system, and identifies a data collection run on an instrument (a Run).\r\n\r\nThere may be several auto-reduction jobs associated with a Run, usually with differing parameters.  The job is typically given an identifier which includes the run number and a suffix such as `-1`, `-2`, etc.\r\n\r\nA job is associated with an input data collection and an output data collection.\r\n",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "isis:Job",
+  "annal:type_list": "_list/Job",
+  "annal:id": "Job",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Job"
+}

@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Run 20580 (MARI)",
+  "rdfs:comment": "MARI instrument run number 20580",
+  "annal:id": "Run_20580",
+  "isis:finish_time": "2015-10-05T08:35Z",
+  "annal:type_id": "Run",
+  "isis:run_number": "20580",
+  "isis:instrument_data": "\\\\isis\\\\inst$\\NDXMARI\\Instrument\\Data\\cycle_15_2\\MAR20580.raw",
+  "isis:start_time": "2015-10-05T08:34Z",
+  "isis:investigation": "Investigation/RB_1520445",
+  "isis:instrument": "Instrument/MARI",
+  "isis:principal_investigator": "",
+  "@id": "./",
+  "@type": [
+    "isis:Run",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

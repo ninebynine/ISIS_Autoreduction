@@ -1,0 +1,26 @@
+{
+  "rdfs:label": "Parameter name and value",
+  "rdfs:comment": "Parameter name and value, for user-set or advanced variable",
+  "annal:id": "Param_name_value",
+  "annal:type_id": "_group",
+  "annal:record_type": "isis:param_name_value",
+  "annal:uri": "annal:group/_initial_values",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,4",
+      "annal:field_id": "_field/Param_name"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:4,8",
+      "annal:field_id": "_field/Param_value"
+    }
+  ],
+  "annal:add_field": true,
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

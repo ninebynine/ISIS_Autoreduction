@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Run 20557: (Spin waves...)",
+  "rdfs:comment": "Spin waves in lightly doped LiGa1-xlnxCr4O8",
+  "annal:id": "Run_20557",
+  "isis:finish_time": "",
+  "annal:type_id": "Run",
+  "isis:run_number": "20557",
+  "isis:instrument_data": "\\\\isis\\\\inst$\\NDXMARI\\Instrument\\Data\\cycle_15_2\\MAR20557.raw",
+  "isis:start_time": "",
+  "isis:investigation": "",
+  "isis:instrument": "Instrument/MARI",
+  "isis:principal_investigator": "Dr G\u00f8ran Nilsen",
+  "@id": "./",
+  "@type": [
+    "isis:Run",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,18 @@
+{
+  "rdfs:label": "MARI spectrometer",
+  "rdfs:comment": "MARI is a chopper spectrometer with continuous detector bank coverage ranging from 3\u00b0 to 134\u00b0 degrees.\r\n\r\n",
+  "rdfs:seeAlso": [
+    {
+      "rdfs:seeAlso": "http://www.isis.stfc.ac.uk/instruments/mari/mari4765.html"
+    }
+  ],
+  "isis:autoreduction_application": "",
+  "annal:type_id": "Instrument",
+  "annal:id": "MARI",
+  "@id": "./",
+  "@type": [
+    "isis:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "ISIS application",
+  "rdfs:comment": "Applicatiion (e.g., Mantid 3.4) used by ISIS auto-reduction job.\r\n\r\nThe application defines a processing application and a number of application-specific parameters set by an ISIS system administrator.\r\n\r\nIn the case of Mantid, the parameters include things like the name of a python script, and configuration files that are used by the script.\r\n\r\nThe specifics of parameters used are generally associated with a particular instrument (e.g. MARI).\r\n",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "isis:Application",
+  "annal:type_list": "_list/Application",
+  "annal:id": "Application",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Application"
+}

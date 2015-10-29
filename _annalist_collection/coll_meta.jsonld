@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "ISIS Autoreduction example",
+  "rdfs:comment": "",
+  "annal:software_version": "0.1.20",
+  "annal:type_id": "_collection",
+  "annal:default_list": "Job",
+  "annal:id": "ISIS_Autoreduction",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

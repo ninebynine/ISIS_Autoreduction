@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "ISIS data collection",
+  "rdfs:comment": "A collection of ISIS data associated with a job.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "isis:DataCollection",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "DataCollection",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

@@ -1,0 +1,23 @@
+{
+  "rdfs:label": "Job 20559 (/runs/20559/0/)",
+  "rdfs:comment": "Submitted by Autoreduction Service",
+  "isis:finish_time": "",
+  "annal:type_id": "Job",
+  "isis:run_number": "",
+  "isis:start_time": "",
+  "isis:investigation": "Investigation/RB_1520286",
+  "isis:user_set_variables": [],
+  "isis:instrument": "Instrument/MARI",
+  "@id": "./",
+  "isis:reduced_data": "",
+  "isis:run": "Run/Run_20559",
+  "isis:instrument_data": "",
+  "isis_job_status": "Error",
+  "annal:id": "Job_20559",
+  "@type": [
+    "isis:Job",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "isis:advanced_variables": []
+}

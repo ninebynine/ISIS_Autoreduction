@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "ISIS data collection (input)",
+  "rdfs:comment": "A collection of ISIS data used as input to a job.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [
+    {
+      "annal:supertype_uri": "isis:DataCollection"
+    }
+  ],
+  "annal:uri": "isis:DataCollection_input",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "DataCollection_input",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

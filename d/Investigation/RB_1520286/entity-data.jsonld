@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "RB 1520286: Spin waves in lightly doped LiGa1-xlnxCr4O8",
+  "rdfs:comment": "Spin waves in lightly doped LiGa1-xlnxCr4O8, multiple runs using MARI instrument.",
+  "annal:id": "RB_1520286",
+  "annal:type_id": "Investigation",
+  "isis:reduced_data_dir": "\\instrument\\MARI\\RBNNumber\\RB1520286\\autoreduced\\",
+  "isis:principal_investigator": "Dr G\u00f8ran Nilsen",
+  "@id": "./",
+  "@type": [
+    "isis:Investigation",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

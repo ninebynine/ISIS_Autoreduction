@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Run number",
+  "rdfs:comment": "Identifies a data collection run on an instrument.\r\n\r\n@@TODO: it might be better to model a run separately, and refer to the run from an auto-reduction Job.",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(run number)",
+  "annal:property_uri": "isis:run_number",
+  "annal:field_ref_type": "",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_value_mode": "Enum_value_mode/Value_direct",
+  "annal:field_render_type": "Enum_render_type/Text",
+  "annal:field_ref_field": "",
+  "annal:id": "Run_number",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

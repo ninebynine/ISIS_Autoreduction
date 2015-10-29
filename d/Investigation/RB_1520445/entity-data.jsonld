@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "RB 1520445 (MARI)",
+  "rdfs:comment": "Investigation associated with reduction job #20580.\r\n\r\nThat's about all I know.\r\n",
+  "isis:principal_investigator": "",
+  "annal:type_id": "Investigation",
+  "annal:id": "RB_1520445",
+  "@id": "./",
+  "@type": [
+    "isis:Investigation",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

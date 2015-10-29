@@ -1,0 +1,26 @@
+{
+  "annal:display_type": "Enum_list_type/List",
+  "rdfs:label": "ISIS investigations",
+  "rdfs:comment": "List of ISIS investigations",
+  "annal:id": "Investigations",
+  "annal:default_type": "_type/Investigation",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "'isis:Investigation' in [@type]",
+  "annal:record_type": "isis:Investigation",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "_field/Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,9",
+      "annal:field_id": "_field/Entity_label"
+    }
+  ],
+  "annal:default_view": "_view/Investigation",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}
